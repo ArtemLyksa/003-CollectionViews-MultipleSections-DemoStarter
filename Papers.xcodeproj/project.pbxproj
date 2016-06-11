@@ -18,6 +18,7 @@
 		7B10CFBC1A60511A002E8DF3 /* Paper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B10CFBB1A60511A002E8DF3 /* Paper.swift */; };
 		7B10CFBE1A605136002E8DF3 /* PapersDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B10CFBD1A605136002E8DF3 /* PapersDataSource.swift */; };
 		7B10CFC01A605167002E8DF3 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B10CFBF1A605167002E8DF3 /* DetailViewController.swift */; };
+		ED6B9D301D0C2E45001B5912 /* SectionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED6B9D2F1D0C2E45001B5912 /* SectionHeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		7B10CFBB1A60511A002E8DF3 /* Paper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Paper.swift; sourceTree = "<group>"; };
 		7B10CFBD1A605136002E8DF3 /* PapersDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PapersDataSource.swift; sourceTree = "<group>"; };
 		7B10CFBF1A605167002E8DF3 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		ED6B9D2F1D0C2E45001B5912 /* SectionHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SectionHeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 			children = (
 				2AA57A461C48B28F00F04E89 /* PaperCell.swift */,
 				2AA57A481C48B62B00F04E89 /* GradientView.swift */,
+				ED6B9D2F1D0C2E45001B5912 /* SectionHeaderView.swift */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 				2AA57A471C48B28F00F04E89 /* PaperCell.swift in Sources */,
 				2AA57A451C487FCF00F04E89 /* MasterViewController.swift in Sources */,
 				7B10CFBC1A60511A002E8DF3 /* Paper.swift in Sources */,
+				ED6B9D301D0C2E45001B5912 /* SectionHeaderView.swift in Sources */,
 				7B10CF921A604F02002E8DF3 /* AppDelegate.swift in Sources */,
 				2AA57A491C48B62B00F04E89 /* GradientView.swift in Sources */,
 				7B10CFBE1A605136002E8DF3 /* PapersDataSource.swift in Sources */,
